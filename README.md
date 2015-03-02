@@ -1,4 +1,4 @@
-# Compress Geotiff
+# Compress GeoTiff
 
 A Python script implementing Paul Ramsey's post [GeoTiff Compression for Dummies](http://blog.cleverelephant.ca/2015/02/geotiff-compression-for-dummies.html).
 
