@@ -20,6 +20,6 @@ Download compress_geotiff.py and config.ini. Edit config.ini with the paths to y
 
 Run the compress_geotiff.py script from your prompt, with -f or --file flag specifying the path to the Geotiff and optionally include -o or --overviews if you want to create overviews.
 
-`compress_geotiff.py  -f <full path to geotiff> [-o (optional)]`
+`python compress_geotiff.py  -f <full path to geotiff> [-o (optional)]`
 
 Run `compress_geotiff.py -h` for help with the arguments.
